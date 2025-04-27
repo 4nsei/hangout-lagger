@@ -1,2 +1,4 @@
 # hangout-lagger
-abuses a vulnerability hangout games have
+- doesnt work on all hangout games
+- basically instant
+- shouldnt kick that much
