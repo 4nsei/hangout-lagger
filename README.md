@@ -1,4 +1,3 @@
 # hangout-lagger
-- doesnt work on all hangout games
-- basically instant
-- shouldnt kick that much
+- not all hangout games are supported
+- abuses a vulnerability within many hangout games
